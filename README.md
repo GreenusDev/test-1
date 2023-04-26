@@ -67,4 +67,5 @@ class a{
 
 > 인용글1
 
+![자기야](https://user-images.githubusercontent.com/104741915/234462816-e420bca6-16e7-4e56-b591-7edd4d702174.jpg)
 
